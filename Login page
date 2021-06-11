@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+ <body>
+  <h4>Sargent Web Development</h4>
+  <input placeholder="Email">
+  <br>
+  <input placeholder="Password"
+   type="password">
+  <br>
+  <input type="Checkbox">
+  <em>Recieve Emails</em>
+  <br>
+  <button>Sign up</button>
+ </body>
+</html>
